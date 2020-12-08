@@ -5,7 +5,7 @@
 Here is the introduction for our group, RFID group in Ocean University of China, It was built on April 1 2019, the leader was Master Dong. More detail will add later.
 
 ## Catalog
-1. [Ours resources](www.baidu.com)
+1. [Ours resources](README.md)
 
 ## Members of each session
 
